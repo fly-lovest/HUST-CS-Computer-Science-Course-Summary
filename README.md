@@ -17,7 +17,7 @@ PS. 所参照的项目如若出现内容错误或运行问题，可在**出现�
 | 数据结构实验             | [fly-lovest/HUST-CS-Data-structure-experiment](https://github.com/fly-lovest/HUST-CS-Data-structure-experiment) |   ❌    |   ❌    |  ✅   |  ❌   |
 | 电路理论（五）           | [fly-lovest/HUST-CS-Circuit-Theory](https://github.com/fly-lovest/HUST-CS-Circuit-Theory) |   ✅    |   ❌    |  ✅   |  ❌   |
 | 模拟电子技术（二）       | [fly-lovest/HUST-CS-Analog-Electronics-Technology](https://github.com/fly-lovest/HUST-CS-Analog-Electronics-Technology) |   ✅    |   ✅    |  ❌   |  ❌   |
-| 程序设计综合课程设计     |                                                              |        |        |      |      |
+| 程序设计综合课程设计     | [fly-lovest/HUST-CS-Comprehensive-Programming-Course](https://github.com/fly-lovest/HUST-CS-Comprehensive-Programming-Course) |   ❌    |   ❌    |  ✅   |  ✅   |
 | 数字电路与逻辑设计（一） |                                                              |        |        |      |      |
 | 数字电路与逻辑设计实验   |                                                              |        |        |      |      |
 | 汇编语言程序设计         |                                                              |        |        |      |      |
@@ -33,8 +33,8 @@ PS. 所参照的项目如若出现内容错误或运行问题，可在**出现�
 | 算法设计与分析           |                                                              |        |        |      |      |
 | 操作系统课程设计         |                                                              |        |        |      |      |
 | 硬件综合训练             |                                                              |        |        |      |      |
-| 编译原理                 |                                                              |        |        |      |      |
-| 编译原理实验             |                                                              |        |        |      |      |
+| 编译原理                 | [fly-lovest/HUST-CS-Compilation-Principle](https://github.com/fly-lovest/HUST-CS-Compilation-Principle) |   ✅    |   ✅    |  ❌   |  ✅   |
+| 编译原理实验             | [fly-lovest/HUST-CS-Compilation-Principle](https://github.com/fly-lovest/HUST-CS-Compilation-Principle) |   ❌    |   ❌    |  ✅   |  ✅   |
 | 数据库系统原理           |                                                              |        |        |      |      |
 | 数据库系统原理实践       |                                                              |        |        |      |      |
 | 计算机系统结构           |                                                              |        |        |      |      |
@@ -47,18 +47,18 @@ PS. 所参照的项目如若出现内容错误或运行问题，可在**出现�
 ## 专业选修课程
 
 
-| 课程名             | 链接 | 复习题 | 作业题 | 实验 | 其他 |
-| :----------------- | :--- | :----: | :----: | :--: | :--: |
-| 计算思维           |      |   ✅    |   ❌    |  ❌   |  ❌   |
-| 大数据导论         |      |        |        |      |      |
-| 人工智能导论       |      |        |        |      |      |
-| 计算机系统基础     |      |        |        |      |      |
-| Verilog语言        |      |        |        |      |      |
-| 数值分析           |      |        |        |      |      |
-| 大数据分析         |      |        |        |      |      |
-| 并行编程原理与实践 |      |        |        |      |      |
-| 计算机图形学       |      |        |        |      |      |
-| 信息安全概论       |      |        |        |      |      |
+| 课程名             | 链接                                                         | 复习题 | 作业题 | 实验 | 其他 |
+| :----------------- | :----------------------------------------------------------- | :----: | :----: | :--: | :--: |
+| 计算思维           | [fly-lovest/HUST-CS-Professional-Elective-Courses-1](https://github.com/fly-lovest/HUST-CS-Professional-Elective-Courses-1) |   ✅    |   ❌    |  ❌   |  ✅   |
+| 大数据导论         | [fly-lovest/HUST-CS-Professional-Elective-Courses-1](https://github.com/fly-lovest/HUST-CS-Professional-Elective-Courses-1) |   ❌    |   ❌    |  ✅   |  ❌   |
+| 人工智能导论       | [fly-lovest/HUST-CS-Professional-Elective-Courses-1](https://github.com/fly-lovest/HUST-CS-Professional-Elective-Courses-1) |   ❌    |   ❌    |  ✅   |  ❌   |
+| 计算机系统基础     | [fly-lovest/HUST-CS-Professional-Elective-Courses-2](https://github.com/fly-lovest/HUST-CS-Professional-Elective-Courses-2) |   ✅    |   ✅    |  ✅   |  ✅   |
+| Verilog语言        | [fly-lovest/HUST-CS-Professional-Elective-Courses-2](https://github.com/fly-lovest/HUST-CS-Professional-Elective-Courses-2) |   ✅    |   ✅    |  ✅   |  ✅   |
+| 数值分析           | [fly-lovest/HUST-CS-Professional-Elective-Courses-3](https://github.com/fly-lovest/HUST-CS-Professional-Elective-Courses-3) |   ✅    |   ✅    |  ❌   |  ❌   |
+| 大数据分析         | [fly-lovest/HUST-CS-Professional-Elective-Courses-3](https://github.com/fly-lovest/HUST-CS-Professional-Elective-Courses-3) |   ❌    |   ❌    |  ✅   |  ❌   |
+| 并行编程原理与实践 | [fly-lovest/HUST-CS-Professional-Elective-Courses-3](https://github.com/fly-lovest/HUST-CS-Professional-Elective-Courses-3) |   ❌    |   ❌    |  ✅   |  ❌   |
+| 计算机图形学       |                                                              |        |        |      |      |
+| 信息安全概论       |                                                              |        |        |      |      |
 
 
 
