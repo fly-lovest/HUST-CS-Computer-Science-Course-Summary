@@ -13,10 +13,10 @@ PS. 所参照的项目如若出现内容错误或运行问题，可在**出现�
 | C语言程序设计            | [fly-lovest/HUST-CS-C-programming](https://github.com/fly-lovest/HUST-CS-C-programming) |   ✅    |   ❌    |  ❌   |  ✅   |
 | C语言程序设计实验        | [fly-lovest/HUST-CS-C-programming-experiments](https://github.com/fly-lovest/HUST-CS-C-programming-experiments) |   ❌    |   ❌    |  ✅   |  ❌   |
 | 离散数学（一）（二）     | [fly-lovest/HUST-CS-Discrete-Mathematics](https://github.com/fly-lovest/HUST-CS-Discrete-Mathematics) |   ✅    |   ✅    |  ❌   |  ✅   |
-| 数据结构                 |                                                              |        |        |      |      |
-| 数据结构实验             |                                                              |        |        |      |      |
-| 电路理论（五）           |                                                              |        |        |      |      |
-| 模拟电子技术（二）       |                                                              |        |        |      |      |
+| 数据结构                 | [fly-lovest/HUST-CS-Data-Structure](https://github.com/fly-lovest/HUST-CS-Data-Structure) |   ❌    |   ❌    |  ✅   |  ❌   |
+| 数据结构实验             | [fly-lovest/HUST-CS-Data-structure-experiment](https://github.com/fly-lovest/HUST-CS-Data-structure-experiment) |   ❌    |   ❌    |  ✅   |  ❌   |
+| 电路理论（五）           | [fly-lovest/HUST-CS-Circuit-Theory](https://github.com/fly-lovest/HUST-CS-Circuit-Theory) |   ✅    |   ❌    |  ✅   |  ❌   |
+| 模拟电子技术（二）       | [fly-lovest/HUST-CS-Analog-Electronics-Technology](https://github.com/fly-lovest/HUST-CS-Analog-Electronics-Technology) |   ✅    |   ✅    |  ❌   |  ❌   |
 | 程序设计综合课程设计     |                                                              |        |        |      |      |
 | 数字电路与逻辑设计（一） |                                                              |        |        |      |      |
 | 数字电路与逻辑设计实验   |                                                              |        |        |      |      |
@@ -65,13 +65,12 @@ PS. 所参照的项目如若出现内容错误或运行问题，可在**出现�
 
 ## 通识课程
 
-| 课程名                     | 链接 | 复习题 | 作业题 | 实验 | 其他 |
-| :------------------------- | :--- | :----: | :----: | :--: | :--: |
-| 综合英语（一）、（二）     |      |   ❌    |   ✅    |  ❌   |  ✅   |
-| 概率论与数理统计           |      |   ❌    |   ✅    |  ❌   |  ✅   |
-| 线性代数                   |      |   ❌    |   ✅    |  ❌   |  ✅   |
-| 大学物理（一）（二）       |      |        |        |      |      |
-| 复变函数与积分变换         |      |        |        |      |      |
+| 课程名                 | 链接                                                         | 复习题 | 作业题 | 实验 | 其他 |
+| :--------------------- | :----------------------------------------------------------- | :----: | :----: | :--: | :--: |
+| 综合英语（一）、（二） | [fly-lovest/HUST-CS-General-English](https://github.com/fly-lovest/HUST-CS-General-English) |   ❌    |   ✅    |  ❌   |  ✅   |
+| 线性代数               | [fly-lovest/HUST-CS-Mathematics-and-Physics](https://github.com/fly-lovest/HUST-CS-Mathematics-and-Physics) |   ✅    |   ❌    |  ❌   |  ✅   |
+| 大学物理（一）（二）   | [fly-lovest/HUST-CS-Mathematics-and-Physics](https://github.com/fly-lovest/HUST-CS-Mathematics-and-Physics) |   ✅    |   ✅    |  ❌   |  ❌   |
+| 复变函数与积分变换     | [fly-lovest/HUST-CS-Mathematics-and-Physics](https://github.com/fly-lovest/HUST-CS-Mathematics-and-Physics) |   ✅    |   ✅    |  ❌   |  ❌   |
 
 
 
